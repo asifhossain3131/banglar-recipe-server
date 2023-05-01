@@ -1,0 +1,171 @@
+[
+    {
+      "categoryId": "CAT001",
+      "categoryName": "Vegetarian",
+      "categoryImage": "https://example.com/vegetarian.jpg",
+      "recipes": [
+        {
+          "recipeId": "REC001",
+          "recipeName": "Pui Shak Chorchori",
+          "recipeImage": "https://example.com/pui-shak-chorchori.jpg",
+          "rating": 4.7,
+          "available": true
+        },
+        {
+          "recipeId": "REC002",
+          "recipeName": "Bhaji",
+          "recipeImage": "https://example.com/bhaji.jpg",
+          "rating": 4.2,
+          "available": true
+        },
+        {
+          "recipeId": "REC003",
+          "recipeName": "Shukto",
+          "recipeImage": "https://example.com/shukto.jpg",
+          "rating": 4.8,
+          "available": true
+        }
+      ]
+    },
+    {
+      "categoryId": "CAT002",
+      "categoryName": "Non-Vegetarian",
+      "categoryImage": "https://example.com/non-vegetarian.jpg",
+      "recipes": [
+        {
+          "recipeId": "REC004",
+          "recipeName": "Shorshe Ilish",
+          "recipeImage": "https://example.com/shorshe-ilish.jpg",
+          "rating": 4.8,
+          "available": true
+        },
+        {
+          "recipeId": "REC005",
+          "recipeName": "Morog Pulao",
+          "recipeImage": "https://example.com/morog-pulao.jpg",
+          "rating": 4.5,
+          "available": true
+        },
+        {
+          "recipeId": "REC006",
+          "recipeName": "Beef Bhuna",
+          "recipeImage": "https://example.com/beef-bhuna.jpg",
+          "rating": 4.3,
+          "available": true
+        }
+      ]
+    },
+    {
+        "categoryId": "CAT003",
+        "categoryName": "Biryani",
+        "categoryImage": "https://example.com/biryani.jpg",
+        "recipes": [
+          {
+            "recipeId": "REC007",
+            "recipeName": "Mutton Biryani",
+            "recipeImage": "https://example.com/mutton-biryani.jpg",
+            "rating": 4.9,
+            "available": true
+          },
+          {
+            "recipeId": "REC008",
+            "recipeName": "Chicken Biryani",
+            "recipeImage": "https://example.com/chicken-biryani.jpg",
+            "rating": 4.7,
+            "available": true
+          },
+          {
+            "recipeId": "REC009",
+            "recipeName": "Beef Biryani",
+            "recipeImage": "https://example.com/beef-biryani.jpg",
+            "rating": 4.8,
+            "available": true
+          }
+        ]
+      },
+      {
+        "categoryId": "CAT004",
+        "categoryName": "Curry",
+        "categoryImage": "https://example.com/curry.jpg",
+        "recipes": [
+          {
+            "recipeId": "REC010",
+            "recipeName": "Chicken Curry",
+            "recipeImage": "https://example.com/chicken-curry.jpg",
+            "rating": 4.6,
+            "available": true
+          },
+          {
+            "recipeId": "REC011",
+            "recipeName": "Chingri Macher Malai Curry",
+            "recipeImage": "https://example.com/chingri-malai-curry.jpg",
+            "rating": 4.9,
+            "available": true
+          },
+          {
+            "recipeId": "REC012",
+            "recipeName": "Beef Curry",
+            "recipeImage": "https://example.com/beef-curry.jpg",
+            "rating": 4.7,
+            "available": true
+          }
+        ]
+      },
+      {
+        "categoryId": "CAT005",
+        "categoryName": "Snacks",
+        "categoryImage": "https://example.com/snacks.jpg",
+        "recipes": [
+          {
+            "recipeId": "REC013",
+            "recipeName": "Singara",
+            "recipeImage": "https://example.com/singara.jpg",
+            "rating": 4.5,
+            "available": true
+          },
+          {
+            "recipeId": "REC014",
+            "recipeName": "Chop",
+            "recipeImage": "https://example.com/chop.jpg",
+            "rating": 4.3,
+            "available": true
+          },
+          {
+            "recipeId": "REC015",
+            "recipeName": "Beguni",
+            "recipeImage": "https://example.com/beguni.jpg",
+            "rating": 4.4,
+            "available": true
+          }
+        ]
+      },
+      {
+        "categoryId": "CAT006",
+        "categoryName": "Desserts",
+        "categoryImage": "https://example.com/desserts.jpg",
+        "recipes": [
+          {
+            "recipeId": "REC016",
+            "recipeName": "Ras Malai",
+            "recipeImage": "https://example.com/ras-malai.jpg",
+            "rating": 4.8,
+            "available": true
+          },
+          {
+            "recipeId": "REC017",
+            "recipeName": "Mishti Doi",
+            "recipeImage": "https://example.com/mishti-doi.jpg",
+        "rating": 4.7,
+        "available": true
+      },
+      {
+        "recipeId": "REC018",
+        "recipeName": "Rasgulla",
+        "recipeImage": "https://example.com/rasgulla.jpg",
+        "rating": 4.6,
+        "available": true
+      }
+    ]
+  }
+  ]
+  

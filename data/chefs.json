@@ -1,0 +1,189 @@
+[
+    {
+      "chefId": "C001",
+      "chefName": "Fatema Yasmin",
+      "chefImage": "https://example.com/fatema-yasmin.jpg",
+      "yearOfExperience": 10,
+      "shortBio": "Chef Fatema Yasmin is a renowned Bangladeshi chef known for her expertise in traditional Bengali cuisine. She has authored several cookbooks and has won numerous culinary awards.",
+      "likes": 15000,
+      "recipes": [
+        {
+          "recipeName": "Shorshe Ilish",
+          "ingredients": ["Hilsa fish", "mustard paste", "green chilies", "turmeric", "salt", "mustard oil"],
+          "cookingMethod": "Marinate the fish with salt and turmeric. In a pan, heat mustard oil and add mustard paste and green chilies. Add the marinated fish and cook until done. Serve hot with steamed rice.",
+          "rating": 4.9,
+          "recipeImage": "https://example.com/shorshe-ilish.jpg"
+        },
+        {
+          "recipeName": "Chingri Bhapa",
+          "ingredients": ["Prawns", "coconut milk", "mustard paste", "green chilies", "salt", "sugar"],
+          "cookingMethod": "Marinate the prawns with salt and mustard paste. In a bowl, mix coconut milk, mustard paste, green chilies, salt, and sugar. Add the marinated prawns and steam for 10 minutes. Serve hot with steamed rice.",
+          "rating": 4.8,
+          "recipeImage": "https://example.com/chingri-bhapa.jpg"
+        },
+        {
+          "recipeName": "Bhuna Khichuri",
+          "ingredients": ["Rice", "lentils", "potatoes", "onions", "garlic", "ginger", "cumin powder", "coriander powder", "turmeric", "garam masala", "salt", "ghee"],
+          "cookingMethod": "Wash rice and lentils and soak for 30 minutes. In a pan, heat ghee and add sliced onions, garlic, and ginger. Add cumin powder, coriander powder, turmeric, and garam masala. Add chopped potatoes and cook until soft. Add the soaked rice and lentils and mix well. Add water and salt and cook until done. Serve hot.",
+          "rating": 4.7,
+          "recipeImage": "https://example.com/bhuna-khichuri.jpg"
+        }
+      ]
+    },
+    {
+      "chefId": "C002",
+      "chefName": "Abdul Karim",
+      "chefImage": "https://example.com/abdul-karim.jpg",
+      "yearOfExperience": 8,
+      "shortBio": "Chef Abdul Karim is a popular Bangladeshi chef known for his innovative fusion cuisine. He has appeared on several cooking shows and has a strong social media following.",
+      "likes": 12000,
+      "recipes": [
+        {
+            "recipeName": "Shorshe Ilish (Mustard Hilsa)",
+            "ingredients": ["Hilsa fish", "mustard paste", "turmeric", "salt", "green chilies"],
+            "cookingMethod": "Marinate the fish with salt and turmeric. Fry the fish until golden brown. In a separate pan, heat mustard oil and add mustard paste, turmeric, salt, and green chilies. Add water and cook until the mixture thickens. Add the fried fish and cook for a few minutes. Serve hot with steamed rice.",
+            "rating": 4.5,
+            "recipeImage": "https://example.com/shorshe-ilish.jpg"
+          },
+          {
+            "recipeName": "Chingri Macher Malai Curry (Prawn Curry with Coconut Milk)",
+            "ingredients": ["Prawns", "coconut milk", "onions", "ginger", "garlic", "cumin powder"],
+            "cookingMethod": "In a pan, heat oil and add sliced onions, ginger, and garlic. Add cumin powder and cook until the onions are soft. Add prawns and cook for a few minutes. Add coconut milk and cook until the mixture thickens. Serve hot with steamed rice.",
+            "rating": 4.8,
+            "recipeImage": "https://example.com/chingri-malai-curry.jpg"
+          },
+          {
+            "recipeName": "Bhuna Khichuri (Spicy Lentil and Rice Dish)",
+            "ingredients": ["Rice", "red lentils", "onions", "garlic", "ginger", "cumin powder", "coriander powder", "turmeric", "green chilies"],
+            "cookingMethod": "Soak rice and lentils separately. In a pan, heat oil and add sliced onions, ginger, and garlic. Add cumin powder, coriander powder, and turmeric. Add the soaked rice and lentils and mix well. Add water and green chilies. Cook until the water is absorbed and the rice and lentils are cooked. Serve hot with fried onions and papad.",
+            "rating": 4.2,
+            "recipeImage": "https://example.com/bhuna-khichuri.jpg"
+          }
+        ]
+    },
+    {
+        "chefId": "C003",
+        "chefName": "Nazia Sultana",
+        "chefImage": "https://example.com/nazia-sultana.jpg",
+        "yearOfExperience": 12,
+        "shortBio": "Chef Nazia Sultana is a Bangladeshi chef with a passion for healthy cooking. She focuses on using locally sourced, organic ingredients in her dishes and is a strong advocate for sustainable farming practices.",
+        "likes": 18000,
+        "recipes": [
+          {
+            "recipeName": "Bhindi Bhaji",
+            "ingredients": ["Okra", "onions", "tomatoes", "garlic", "ginger", "cumin powder", "coriander powder", "turmeric", "chili powder", "ghee", "salt"],
+            "cookingMethod": "In a pan, heat ghee and add sliced onions, garlic, and ginger. Add cumin powder, coriander powder, turmeric, and chili powder. Add chopped tomatoes and cook until soft. Add chopped okra and salt and cook until done. Serve hot with roti or rice.",
+            "rating": 4.5,
+            "recipeImage": "https://example.com/bhindi-bhaji.jpg"
+          },
+          {
+            "recipeName": "Kale Chana Dal",
+            "ingredients": ["Split bengal gram", "kale leaves", "onions", "tomatoes", "garlic", "ginger", "cumin seeds", "turmeric", "garam masala", "vegetable oil", "salt"],
+            "cookingMethod": "Soak the dal for 30 minutes. In a pressure cooker, heat oil and add cumin seeds. Add sliced onions, garlic, and ginger. Add chopped tomatoes and cook until soft. Add the soaked dal, turmeric, garam masala, and salt. Add water and pressure cook for 3-4 whistles. Add chopped kale leaves and cook for another 5 minutes. Serve hot with rice or roti.",
+            "rating": 4.6,
+            "recipeImage": "https://example.com/kale-chana-dal.jpg"
+          },
+          {
+            "recipeName": "Beetroot Cutlet",
+            "ingredients": ["Beetroot", "potatoes", "green chilies", "ginger", "garlic", "bread crumbs", "coriander leaves", "garam masala", "turmeric", "vegetable oil", "salt"],
+            "cookingMethod": "Boil and mash the potatoes and beetroot. In a pan, heat oil and add chopped green chilies, ginger, and garlic. Add garam masala, turmeric, and salt. Add the mashed vegetables and mix well. Make small cutlets and coat with bread crumbs. Fry in hot oil until golden brown. Serve hot with chutney.",
+            "rating": 4.4,
+            "recipeImage": "https://example.com/beetroot-cutlet.jpg"
+          }
+        ]
+      },
+      {
+        "chefId": "C004",
+        "chefName": "Mushfiqur Rahman",
+        "chefImage": "https://example.com/mushfiqur-rahman.jpg",
+        "yearOfExperience": 15,
+        "shortBio": "Chef Mushfiqur Rahman is a highly skilled Bangladeshi chef with over 15 years of experience in the culinary industry. He specializes in creating unique, high-end dishes that showcase the best of Bangladeshi cuisine.",
+        "likes": 25000,
+        "recipes": [
+          {
+            "recipeName": "Pitha",
+            "ingredients": ["Rice flour", "sugar", "coconut", "cardamom", "vegetable oil", "salt"],
+            "cookingMethod": "Mix rice flour, sugar, and salt with water to make a dough. Divide the dough into small balls and flatten them. Add grated coconut and cardamom to the center of the flattened dough and fold it. Steam the pitha in a steamer for 10-15 minutes. Serve hot.",
+            "rating": 4.7,
+            "recipeImage": "https://example.com/pitha.jpg"
+          },
+          {
+            "recipeName": "Bhorta",
+            "ingredients": ["Eggplant", "onions", "tomatoes", "green chilies", "garlic", "mustard oil", "salt"],
+            "cookingMethod": "Roast eggplant and remove the skin. In a pan, heat mustard oil and add sliced onions, garlic, and green chilies. Add chopped tomatoes and cook until soft. Mash the roasted eggplant and mix with the onion-tomato mixture. Add salt to taste. Serve with rice.",
+            "rating": 4.8,
+            "recipeImage": "https://example.com/bhorta.jpg"
+          },
+          {
+            "recipeName": "Dhaka Biryani",
+            "ingredients": ["Basmati rice", "chicken", "yogurt", "ginger-garlic paste", "onions", "green chilies", "bay leaves", "cinnamon", "cardamom", "cloves", "saffron", "ghee", "salt"],
+            "cookingMethod": "Marinate chicken with yogurt, ginger-garlic paste, and salt for 30 minutes. In a pan, heat ghee and add sliced onions, bay leaves, cinnamon, cardamom, and cloves. Add marinated chicken and cook until done. Boil basmati rice with salt and whole spices until half done. Layer the cooked chicken over the rice and sprinkle with saffron. Cover and cook on low heat until the rice is fully cooked. Serve hot.",
+            "rating": 4.9,
+            "recipeImage": "https://example.com/dhaka-biryani.jpg"
+          }
+        ]
+      },
+      {
+        "chefId": "C005",
+        "chefName": "Nazrul Islam",
+        "chefImage": "https://example.com/nazrul-islam.jpg",
+        "yearOfExperience": 12,
+        "shortBio": "Chef Nazrul Islam is a seasoned Bangladeshi chef with over 12 years of experience in the culinary industry. He is known for his traditional approach to Bangladeshi cooking and his ability to create dishes that are both flavorful and comforting.",
+        "likes": 18000,
+        "recipes": [
+          {
+            "recipeName": "Chingri Malai Curry",
+            "ingredients": ["Prawns", "coconut milk", "mustard oil", "ginger-garlic paste", "onions", "green chilies", "bay leaves", "cinnamon", "cardamom", "cloves", "turmeric powder", "salt"],
+            "cookingMethod": "In a pan, heat mustard oil and add sliced onions, bay leaves, cinnamon, cardamom, and cloves. Add ginger-garlic paste and green chilies and cook until fragrant. Add turmeric powder and coconut milk and bring to a simmer. Add prawns and cook until done. Add salt to taste. Serve hot with rice.",
+            "rating": 4.6,
+            "recipeImage": "https://example.com/chingri-malai-curry.jpg"
+          },
+          {
+            "recipeName": "Mutton Rezala",
+            "ingredients": ["Mutton", "yogurt", "cashews", "poppy seeds", "ginger", "garlic", "green chilies", "bay leaves", "cinnamon", "cardamom", "cloves", "ghee", "salt"],
+            "cookingMethod": "In a pan, heat ghee and add sliced onions, bay leaves, cinnamon, cardamom, and cloves. Add ginger, garlic, and green chilies and cook until fragrant. Add cashews and poppy seeds and cook until lightly toasted. Add mutton and cook until browned. Add yogurt and salt to taste. Cover and cook until the mutton is tender. Serve hot with naan or paratha.",
+            "rating": 4.9,
+            "recipeImage": "https://example.com/mutton-rezala.jpg"
+          },
+          {
+            "recipeName": "Begun Bhaja",
+            "ingredients": ["Eggplant", "turmeric powder", "red chili powder", "coriander powder", "cumin powder", "vegetable oil", "salt"],
+            "cookingMethod": "Cut eggplant into thin slices and sprinkle with salt. Let sit for 10 minutes. In a bowl, mix turmeric powder, red chili powder, coriander powder, and cumin powder with water to make a paste. Coat the eggplant slices with the spice paste. Heat vegetable oil in a pan and fry the eggplant slices until golden brown. Serve hot as a side dish.",
+            "rating": 4.5,
+            "recipeImage": "https://example.com/begun-bhaja.jpg"
+          }
+        ]
+      },
+      {
+        "chefId": "C006",      
+"chefImage": "https://example.com/farzana-akter.jpg",
+"yearOfExperience": 8,
+"shortBio": "Chef Farzana Akter is a rising star in the Bangladeshi culinary scene. With a background in nutrition, she creates dishes that are both delicious and healthy. Her focus is on using fresh, local ingredients and traditional cooking techniques to bring out the best flavors in her dishes.",
+"likes": 12000,
+"recipes": [
+{
+"recipeName": "Pui Shak Chorchori",
+"ingredients": ["Pui Shak", "potatoes", "onions", "tomatoes", "green chilies", "turmeric powder", "cumin powder", "coriander powder", "salt", "mustard oil"],
+"cookingMethod": "In a pan, heat mustard oil and add sliced onions, green chilies, and cubed potatoes. Cook until the potatoes are lightly browned. Add turmeric powder, cumin powder, coriander powder, and salt to taste. Add chopped tomatoes and cook until soft. Add chopped Pui Shak and cook until wilted. Serve hot with rice.",
+"rating": 4.7,
+"recipeImage": "https://example.com/pui-shak-chorchori.jpg"
+},
+{
+"recipeName": "Shorshe Ilish",
+"ingredients": ["Hilsa fish", "mustard paste", "green chilies", "turmeric powder", "salt", "mustard oil"],
+"cookingMethod": "In a pan, heat mustard oil and add mustard paste, turmeric powder, and green chilies. Cook until the mustard paste is lightly toasted. Add the Hilsa fish and cook until done. Add salt to taste. Serve hot with steamed rice.",
+"rating": 4.8,
+"recipeImage": "https://example.com/shorshe-ilish.jpg"
+},
+{
+"recipeName": "Bhapa Pitha",
+"ingredients": ["Rice flour", "coconut", "jaggery", "cardamom", "salt", "water"],
+"cookingMethod": "In a bowl, mix rice flour, grated coconut, jaggery, crushed cardamom, and salt. Add enough water to make a smooth batter. Pour the batter into a greased pan and steam for 20-25 minutes, or until cooked through. Serve hot or at room temperature.",
+"rating": 4.6,
+"recipeImage": "https://example.com/bhapa-pitha.jpg"
+}
+]
+}
+]
+
+  

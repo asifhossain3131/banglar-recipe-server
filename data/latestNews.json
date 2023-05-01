@@ -1,0 +1,39 @@
+[
+    {
+      "newsId": "NWS001",
+      "title": "Bangladeshi Chef Wins International Cooking Competition",
+      "image": "https://example.com/bd-chef-wins.jpg",
+      "authorName": "John Doe",
+      "publishedIn": "The Daily News",
+      "comments": 12,
+      "shortDescription": "Chef Rahman from Dhaka won the top prize at the international cooking competition held in Paris last week. His winning dish was a fusion of traditional Bangladeshi spices and French techniques."
+    },
+    {
+      "newsId": "NWS002",
+      "title": "New Restaurant in Dhaka Features Modern Bangladeshi Cuisine",
+      "image": "https://example.com/new-restaurant.jpg",
+      "authorName": "Jane Smith",
+      "publishedIn": "The Foodie Times",
+      "comments": 8,
+      "shortDescription": "The new restaurant, named 'Bengali Bites', offers a modern twist on traditional Bangladeshi dishes. The chef, who trained at a top culinary school in Europe, uses locally-sourced ingredients to create unique and flavorful dishes."
+    },
+    {
+      "newsId": "NWS003",
+      "title": "Bangladeshi Food Festival Draws Large Crowds in New York City",
+      "image": "https://example.com/food-festival.jpg",
+      "authorName": "Samuel Lee",
+      "publishedIn": "The New York Times",
+      "comments": 23,
+      "shortDescription": "The annual Bangladeshi Food Festival, held in Central Park, was a huge success this year, attracting food lovers from all over the city. Visitors enjoyed a variety of authentic Bangladeshi dishes, including biryani, dal, and samosas."
+    },
+    {
+      "newsId": "NWS004",
+      "title": "Bangladeshi Dessert Named Best in Asia",
+      "image": "https://example.com/best-dessert.jpg",
+      "authorName": "Maria Rodriguez",
+      "publishedIn": "Food & Travel Magazine",
+      "comments": 17,
+      "shortDescription": "The sweet and creamy Bangladeshi dessert, mishti doi, was named the best dessert in Asia by the prestigious culinary magazine. The dish, made with sweetened milk and yogurt, is a popular dessert in Bangladesh and is now gaining popularity in other parts of the world."
+    }
+  ]
+  
