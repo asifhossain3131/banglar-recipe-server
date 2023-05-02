@@ -2,7 +2,7 @@
     {
       "newsId": "NWS001",
       "title": "Bangladeshi Chef Wins International Cooking Competition",
-      "image": "https://example.com/bd-chef-wins.jpg",
+      "image": "https://prod-media-eng.dhakatribune.com/uploads/2019/02/c57f8ae2b1aa-1549269166-1549735951096.jpg",
       "authorName": "John Doe",
       "publishedIn": "The Daily News",
       "comments": 12,
@@ -11,7 +11,7 @@
     {
       "newsId": "NWS002",
       "title": "New Restaurant in Dhaka Features Modern Bangladeshi Cuisine",
-      "image": "https://example.com/new-restaurant.jpg",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/15/5c/62/96/usually-open-to-restaurant.jpg",
       "authorName": "Jane Smith",
       "publishedIn": "The Foodie Times",
       "comments": 8,
@@ -20,7 +20,7 @@
     {
       "newsId": "NWS003",
       "title": "Bangladeshi Food Festival Draws Large Crowds in New York City",
-      "image": "https://example.com/food-festival.jpg",
+      "image": "https://prod-media-eng.dhakatribune.com/uploads/2018/11/featured-1541685278199.jpg",
       "authorName": "Samuel Lee",
       "publishedIn": "The New York Times",
       "comments": 23,
@@ -29,7 +29,7 @@
     {
       "newsId": "NWS004",
       "title": "Bangladeshi Dessert Named Best in Asia",
-      "image": "https://example.com/best-dessert.jpg",
+      "image": "https://cosmosgroup.sgp1.cdn.digitaloceanspaces.com/news/8114576_Famous-Sweets-in-Bangladesh.jpg",
       "authorName": "Maria Rodriguez",
       "publishedIn": "Food & Travel Magazine",
       "comments": 17,
