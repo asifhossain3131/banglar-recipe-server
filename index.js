@@ -29,12 +29,6 @@ app.get('/foods', (req,res)=>{
     res.send(foods)
 })
 
-app.get('/food/:id', (req, res)=>{
-    const id=req.params.id 
-    const target=foods.find(food=>food.categoryId===id)
-    res.send(target)
-})
-
 app.get('/news', (req, res)=>{
     res.send(newses)
 })
